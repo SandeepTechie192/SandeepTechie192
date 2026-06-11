@@ -1,27 +1,351 @@
-# 💫 About Me:
-👨‍💻 I'm currently working on<br>Building interactive and responsive web applications using React.js and Tailwind CSS to create clean and scalable UIs.<br><br>🤝 I'm looking to collaborate on<br>Frontend projects where I can contribute with React, Tailwind CSS, and learn more about TypeScript and Next.js in real-world scenarios.<br><br>🧠 I'm looking for help with<br>Deepening my understanding of TypeScript and implementing best practices in Next.js for scalable frontend architecture.<br><br>🌱 I'm currently learning<br>TypeScript for type safety and cleaner code<br><br>Next.js for server-side rendering and full-stack capabilities
+# GitHub README.md
 
+````md
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-soni-628804227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermasandeep1290@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,19,20,24,30&text=Sandeep%20Soni&fontSize=55&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandeepTechie192&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SandeepTechie192&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepTechie192&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;Next.js+Learner;TypeScript+Enthusiast;Building+Scalable+Web+Applications" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SandeepTechie192&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Frontend-Specialist-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SandeepTechie192&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-4F46E5?style=for-the-badge)
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/sandeep-soni-628804227">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge">
+</a>
+
+<a href="mailto:vermasandeep1290@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge">
+</a>
+
+<a href="https://github.com/SandeepTechie192">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge">
+</a>
+
+![](https://komarev.com/ghpvc/?username=SandeepTechie192&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/SandeepTechie192?style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/stars/SandeepTechie192?style=for-the-badge&color=8B5CF6)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SandeepTechie192&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+Frontend Developer passionate about building modern, scalable, and responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
+
+I focus on creating clean user experiences, reusable component architectures, performance-optimized interfaces, and maintainable frontend systems that support long-term product growth.
+
+My engineering approach combines strong UI development skills with backend awareness, cloud fundamentals, and modern software engineering practices.
+
+### Open To
+
+- Frontend Developer Roles
+- React.js Development
+- Next.js Development
+- TypeScript Projects
+- Open Source Collaboration
+- Full Stack Learning Opportunities
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,redux" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,figma" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|------------|
+| Prompt Engineering | Intermediate | Effective AI interaction workflows |
+| AI Productivity Tools | Intermediate | Development workflow enhancement |
+| LLM Applications | Learning | Exploring modern AI integrations |
+| Frontend AI Integration | Learning | AI-powered UI experiences |
+| Automation Workflows | Intermediate | Productivity automation |
+| Data Analysis | Intermediate | Python-based exploration |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>React Dashboard Application</b></summary>
+
+### Overview
+
+Modern responsive dashboard built using React.js and Tailwind CSS.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React, Tailwind CSS |
+| Scale | Multi-page application |
+| Performance | Optimized rendering |
+| Security | Frontend validation |
+| Impact | Improved UX |
+| Repository | https://github.com/SandeepTechie192 |
+
+Built reusable components and responsive layouts following modern frontend practices.
+
+</details>
+
+<details>
+<summary><b>Next.js Portfolio Platform</b></summary>
+
+### Overview
+
+Personal portfolio application focused on performance and SEO.
+
+| Metric | Details |
+|---------|---------|
+| Stack | Next.js, TypeScript |
+| Scale | Production-ready |
+| Performance | SSR & Optimization |
+| Security | Secure deployment |
+| Impact | Professional branding |
+| Repository | https://github.com/SandeepTechie192 |
+
+Implemented modern routing, component architecture, and performance optimization strategies.
+
+</details>
+
+<details>
+<summary><b>Frontend Component Library</b></summary>
+
+### Overview
+
+Reusable UI component system for rapid application development.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React, Tailwind CSS |
+| Scale | Shared UI Components |
+| Performance | Reusable architecture |
+| Security | Best Practices |
+| Impact | Faster development |
+| Repository | https://github.com/SandeepTechie192 |
+
+Focused on maintainability, scalability, and design consistency.
+
+</details>
+
+---
+
+# Experience
+
+## Frontend Developer
+
+**2024 – Present**
+
+Focused on building responsive user interfaces and modern web applications.
+
+### Responsibilities
+
+- Develop React.js applications
+- Implement responsive UI systems
+- Build reusable components
+- Optimize frontend performance
+- Collaborate with development teams
+
+**Skills**
+
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| Frontend Development | Built multiple React applications |
+| Open Source Learning | Active GitHub contributor |
+| TypeScript Journey | Continuously improving code quality |
+| Modern Web Development | Following latest frontend practices |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge)
+
+### Oracle
+
+![](https://img.shields.io/badge/Oracle-Learning-C74634?style=for-the-badge)
+
+### NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Certifications-4F46E5?style=for-the-badge)
+
+### Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1D4ED8?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandeepTechie192&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=SandeepTechie192&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepTechie192&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SandeepTechie192&theme=algolia&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepTechie192&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SandeepTechie192/SandeepTechie192/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - TypeScript
+  - Next.js App Router
+  - Frontend Architecture
+
+Building:
+  - React Applications
+  - Portfolio Projects
+  - Reusable UI Components
+
+Exploring:
+  - Full Stack Development
+  - AWS Cloud Services
+  - Modern Web Performance
+
+Open_To:
+  - Frontend Roles
+  - React Projects
+  - Open Source Contributions
+  - Collaboration Opportunities
+````
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:vermasandeep1290@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/sandeep-soni-628804227">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge">
+</a>
+
+<a href="https://github.com/SandeepTechie192">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge">
+</a>
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building scalable user experiences through clean code, modern technologies, and continuous learning."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,19,20,24,30"/>
+
+</div>
+```
