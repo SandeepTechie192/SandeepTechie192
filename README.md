@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,19,20,24,30&text=Sandeep%20Soni&fontSize=55&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,19,20,24,30&text=Sandeep%20Soni&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;Next.js+Learner;TypeScript+Enthusiast;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;Next.js+Enthusiast;TypeScript+Learner;Building+Scalable+Web+Applications" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Frontend-Specialist-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-4F46E5?style=for-the-badge" />
 
@@ -40,18 +40,18 @@
 
 # About
 
-Frontend Developer passionate about building modern, scalable, and responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
+Frontend Developer focused on building scalable, responsive, and modern web applications using React.js, Next.js, TypeScript, Tailwind CSS, and JavaScript.
 
-I focus on creating clean user experiences, reusable component architectures, performance-optimized interfaces, and maintainable frontend systems that support long-term product growth.
+I enjoy transforming designs into high-performance user experiences while following clean architecture, reusable component patterns, accessibility standards, and modern frontend engineering practices.
 
 ### Open To
 
 * Frontend Developer Roles
-* React.js Development
+* React.js Opportunities
 * Next.js Development
 * TypeScript Projects
-* Open Source Collaboration
-* Full Stack Opportunities
+* Open Source Contributions
+* Full Stack Collaboration
 
 ---
 
@@ -66,7 +66,7 @@ I focus on creating clean user experiences, reusable component architectures, pe
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vite" />
 </p>
 
 ### Backend & Databases
@@ -75,11 +75,24 @@ I focus on creating clean user experiences, reusable component architectures, pe
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Cloud & Tools
+### Cloud, DevOps & Tooling
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,git,github,figma" />
 </p>
+
+---
+
+# AI / ML Expertise
+
+| Domain                  | Proficiency  | Details                |
+| ----------------------- | ------------ | ---------------------- |
+| Prompt Engineering      | Intermediate | AI-assisted workflows  |
+| AI Productivity Tools   | Intermediate | Developer productivity |
+| LLM Applications        | Learning     | Modern AI integrations |
+| Frontend AI Integration | Learning     | AI-powered interfaces  |
+| Automation Workflows    | Intermediate | Workflow automation    |
+| Data Analysis           | Intermediate | Python exploration     |
 
 ---
 
@@ -88,28 +101,109 @@ I focus on creating clean user experiences, reusable component architectures, pe
 <details>
 <summary><b>React Dashboard Application</b></summary>
 
-Modern responsive dashboard built using React.js and Tailwind CSS.
+Modern responsive dashboard application developed using React.js and Tailwind CSS.
 
-| Metric      | Details                  |
-| ----------- | ------------------------ |
-| Stack       | React, Tailwind CSS      |
-| Performance | Optimized Rendering      |
-| Impact      | Enhanced User Experience |
+| Metric      | Details                     |
+| ----------- | --------------------------- |
+| Stack       | React.js, Tailwind CSS      |
+| Scale       | Multi-Module Application    |
+| Performance | Optimized Rendering         |
+| Security    | Input Validation            |
+| Impact      | Improved UX                 |
+| Repository  | github.com/SandeepTechie192 |
+
+Built reusable UI components and responsive layouts using modern frontend practices.
 
 </details>
 
 <details>
 <summary><b>Next.js Portfolio Platform</b></summary>
 
-Personal portfolio application focused on performance and SEO.
+Performance-focused portfolio platform built using Next.js and TypeScript.
 
-| Metric      | Details               |
-| ----------- | --------------------- |
-| Stack       | Next.js, TypeScript   |
-| Performance | SSR Optimized         |
-| Impact      | Professional Branding |
+| Metric      | Details                     |
+| ----------- | --------------------------- |
+| Stack       | Next.js, TypeScript         |
+| Scale       | Production Ready            |
+| Performance | SEO Optimized               |
+| Security    | Secure Deployment           |
+| Impact      | Professional Branding       |
+| Repository  | github.com/SandeepTechie192 |
+
+Implemented server-side rendering, optimization techniques, and modern routing.
 
 </details>
+
+<details>
+<summary><b>Frontend Component Library</b></summary>
+
+Reusable component architecture for rapid frontend development.
+
+| Metric      | Details                     |
+| ----------- | --------------------------- |
+| Stack       | React.js, Tailwind CSS      |
+| Scale       | Shared Components           |
+| Performance | Lightweight                 |
+| Security    | Best Practices              |
+| Impact      | Faster Development          |
+| Repository  | github.com/SandeepTechie192 |
+
+Focused on maintainability, consistency, and scalability.
+
+</details>
+
+---
+
+# Experience
+
+## Frontend Developer
+
+**2024 – Present**
+
+Building responsive and performance-focused web applications using modern frontend technologies.
+
+### Responsibilities
+
+* Develop scalable React.js applications
+* Implement reusable UI architectures
+* Optimize rendering performance
+* Improve accessibility and responsiveness
+* Collaborate across teams
+
+**Skills**
+
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition          | Details                           |
+| -------------------- | --------------------------------- |
+| Frontend Engineering | Built modern React applications   |
+| Continuous Learning  | Advancing TypeScript expertise    |
+| Open Source          | Active GitHub contributor         |
+| Modern Development   | Following industry best practices |
+
+</div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" />
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -147,6 +241,16 @@ Personal portfolio application focused on performance and SEO.
 
 ---
 
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SandeepTechie192/SandeepTechie192/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
 # Current Focus
 
 ```yaml
@@ -163,11 +267,12 @@ Building:
 Exploring:
   - Full Stack Development
   - AWS Cloud Services
+  - Performance Optimization
 
 Open_To:
   - Frontend Roles
   - React Projects
-  - Open Source Contributions
+  - Open Source Collaboration
 ```
 
 ---
